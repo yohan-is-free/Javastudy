@@ -1,0 +1,19 @@
+package java0629;
+
+public class ex05_약수구하기 {
+
+	public static void main(String[] args) {
+		
+		// 2~30까지의 약수를 구하세요
+		
+		System.out.print("15의 약수 : ");
+		for(int i=15;i>=1;i--) {
+			if((i%15)==0) {  // 약수인지 아닌지 판별
+				System.out.print(i+" ");
+			}
+		}
+		
+
+	}
+
+}

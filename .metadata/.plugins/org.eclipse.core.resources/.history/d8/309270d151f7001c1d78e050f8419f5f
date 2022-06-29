@@ -1,0 +1,21 @@
+package java0629;
+
+public class ex04_역삼각형별찍기 {
+
+	public static void main(String[] args) {
+		//*********
+		//@*******@
+		//@@*****@@
+		//@@@***@@@
+		//@@@@*@@@@
+		for(int i=0; i<10; i++) {
+			for(int j =1; j<9-i;j++) {
+				System.out.print("@");
+				
+			}
+		}
+		System.out.println();
+
+	}
+
+}

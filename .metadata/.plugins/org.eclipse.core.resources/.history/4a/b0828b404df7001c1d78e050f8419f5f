@@ -1,0 +1,14 @@
+package java0629;
+
+public class ex03_뒤집어별찍기 {
+
+	public static void main(String[] args) {
+		
+		for(int i=0;i>=5;i++) {
+			System.out.print(" "+"*");
+		}
+		
+
+	}
+
+}
