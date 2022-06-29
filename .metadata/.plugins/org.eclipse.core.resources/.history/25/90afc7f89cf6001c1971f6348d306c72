@@ -1,0 +1,10 @@
+package java0628;
+
+public class ex09_구구단세로 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

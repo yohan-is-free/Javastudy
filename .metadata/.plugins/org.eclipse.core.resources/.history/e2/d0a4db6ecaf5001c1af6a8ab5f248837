@@ -1,0 +1,26 @@
+package java0627;
+
+import java.util.Scanner;
+
+public class ex05_다이어트 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int now = 0, goal = 0, lose = 0; 
+		int cnt = 0;
+		
+		System.out.print("현재 몸무게 : ");
+		now = sc.nextInt();
+		System.out.print("목표 몸무게 : ");
+		goal = sc.nextInt();
+		
+		while(true) {
+			cnt++;
+			System.out.println(cnt+"주차 감량 몸무게 : ");
+			lose = sc.nextInt();
+		}
+		
+	}
+
+}
