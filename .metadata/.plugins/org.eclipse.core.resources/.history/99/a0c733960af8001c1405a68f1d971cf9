@@ -1,6 +1,6 @@
-package java0629;
+package java0630;
 
-public class ex03_거꾸로별찍기 {
+public class ex01_ {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
