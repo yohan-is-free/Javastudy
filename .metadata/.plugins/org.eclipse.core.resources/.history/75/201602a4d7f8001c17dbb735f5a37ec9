@@ -1,0 +1,18 @@
+package java0701;
+
+public class ex01_배열생성 {
+
+	public static void main(String[] args) {
+		
+		// 정수형 배열 선언
+		int[] array;
+		
+		// 정수형 배열 초기화
+		array = new int[5];
+		
+		// 배열 접근
+		System.out.println(array);
+
+	}
+
+}
