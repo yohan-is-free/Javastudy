@@ -6,7 +6,7 @@ public class ex08_이차원배열_채점프로그램 {
 
 	public static void main(String[] args) {
 		// 3행 5열 배열 answer을 만들고 초기화
-		// 값을 입력 받아 2번째 행에 저장하고 맞으면 O, 틀리면 X를 출력
+		// 값을 입력 받아 2번째 행에 저장하고 맞으면 O, 틀리면 X를 출력p
 		// 총점까지 출력
 		
 		int[][] arr = new int[3][];
