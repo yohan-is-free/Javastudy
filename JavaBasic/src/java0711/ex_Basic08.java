@@ -1,6 +1,6 @@
 package java0711;
 
-public class ex06_Basic08 {
+public class ex_Basic08 {
 
 	public static void main(String[] args) {
 		int[] a = makeArr();

@@ -1,6 +1,6 @@
 package java0713;
 
-public class ex15_Basic17 {
+public class ex_Basic17 {
 
 	public static void main(String[] args) {
 		// 검색 : 순차검색, 블럭검색, 이진검색(*)

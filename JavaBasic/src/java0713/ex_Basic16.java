@@ -2,7 +2,7 @@ package java0713;
 
 import java0712.MovieVO;
 
-public class ex14_Basic16 {
+public class ex_Basic16 {
 
 	public static void main(String[] args) {
 		

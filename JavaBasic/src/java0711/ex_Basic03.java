@@ -1,6 +1,6 @@
 package java0711;
 
-public class ex01_Basic03 {
+public class ex_Basic03 {
 	// 메서드(Method), 함수(Function) => 동작(행위정보)
 	
 	public static void main(String[] args) {

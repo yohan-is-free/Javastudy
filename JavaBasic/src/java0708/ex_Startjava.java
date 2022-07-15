@@ -1,6 +1,6 @@
 package java0708;
 
-public class ex01_Startjava {
+public class ex_Startjava {
 
 	public static void main(String[] args) {
 		

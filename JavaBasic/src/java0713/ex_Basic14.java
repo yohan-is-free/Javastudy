@@ -1,6 +1,6 @@
 package java0713;
 
-public class ex12_Basic14 {
+public class ex_Basic14 {
 
 	public static void main(String[] args) {
 		// 객체가 생성되는 메모리공간(heap memory)

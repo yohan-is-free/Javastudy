@@ -1,6 +1,6 @@
 package java0712;
 
-public class ex09_Basic11 {
+public class ex_Basic11 {
 
 	public static void main(String[] args) {
 		

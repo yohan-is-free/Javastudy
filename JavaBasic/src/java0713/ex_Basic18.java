@@ -2,7 +2,7 @@ package java0713;
 
 import java0712.MovieVO;
 
-public class ex16_Basic18 {
+public class ex_Basic18 {
 
 	public static void main(String[] args) {
 		MovieVO[] m = new MovieVO[3];

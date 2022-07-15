@@ -1,6 +1,6 @@
 package java0712;
 
-public class ex10_Basic12 {
+public class ex_Basic12 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
