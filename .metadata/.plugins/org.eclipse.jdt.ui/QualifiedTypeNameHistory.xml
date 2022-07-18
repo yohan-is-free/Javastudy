@@ -7,4 +7,20 @@
     <fullyQualifiedTypeName name="java0714.myUtil"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="kr.co.smhrd.Member"/>
+    <fullyQualifiedTypeName name="javax.swing.text.Document"/>
+    <fullyQualifiedTypeName name="javax.lang.model.element.Element"/>
+    <fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
+    <fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
+    <fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="kr.ani.oop.Cat"/>
+    <fullyQualifiedTypeName name="kr.ani.oop.Animal"/>
+    <fullyQualifiedTypeName name="kr.ani.oop.Dog"/>
+    <fullyQualifiedTypeName name="kr.ani.oop1.Animal"/>
+    <fullyQualifiedTypeName name="kr.ani.oop1.Dog"/>
+    <fullyQualifiedTypeName name="kr.ani.oop2.TV"/>
+    <fullyQualifiedTypeName name="kr.ani.oop2.Radio"/>
+    <fullyQualifiedTypeName name="kr.ani.oop2.RemoCon"/>
 </qualifiedTypeNameHistroy>

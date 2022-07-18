@@ -4,7 +4,7 @@ public class MovieVO {
 
 	String name, hero, theater, time;
 	int price;
-	public MovieVO(String name, String hero, String theater, String time, int price) {
+	public MovieVO(String name, String hero, int price, String time, String theater) {
 		super();
 		this.name = name;
 		this.hero = hero;
